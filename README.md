@@ -12,7 +12,7 @@
  
  </br>
 
-<img  src="https://media1.tenor.com/m/RZ-XlLO5gb4AAAAd/yoru-valorant.gif" alt="Body image" width="100px"> 
+<img src="https://media.tenor.com/RZ-XlLO5gb4AAAAM/yoru-valorant.gif" alt="Body image" width="100px"> 
 
 </div>
 
