@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
- <img  src="https://media1.tenor.com/m/RZ-XlLO5gb4AAAAd/yoru-valorant.gif" alt="Body image" width="100px"> 
+<img  src="https://media1.tenor.com/m/RZ-XlLO5gb4AAAAd/yoru-valorant.gif" alt="Body image" width="100px"> 
 
 </div>
 
@@ -26,7 +26,7 @@
   [![My Skills](https://skillicons.dev/icons?i=arduino,aws,bash,cpp,github,html,java,linux,mysql,powershell,py,pycharm,ubuntu,vscode)](https://skillicons.dev)
   
 
-**Learning**:
+**Currently Learning**:
 
 <div align="center">
 
