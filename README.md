@@ -27,7 +27,7 @@
 
 **My Tech Stack**:
   
-  [![My Skills](https://skillicons.dev/icons?i=arduino,aws,bash,cpp,css,github,html,java,js,linux,mysql,php,powershell,py,pycharm,ubuntu,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arduino,aws,axure,bash,cpp,css,github,html,java,js,linux,mysql,php,powershell,py,pycharm,ubuntu,vscode)](https://skillicons.dev)
   
 
 **Currently Learning**:
