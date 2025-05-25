@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=godot,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,figma)](https://skillicons.dev)
 
   </div>
 </br></div>
