@@ -8,7 +8,7 @@
 
 <div align="center"></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=synthwave&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
  
  </br>
 
