@@ -8,7 +8,7 @@
 
 <div align="center"></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojaAlnemer&hide_progress=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojaAlnemer&hide_progress=true&theme=algolia)
 
 
  
