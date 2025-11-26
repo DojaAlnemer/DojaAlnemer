@@ -8,7 +8,7 @@
 
 <div align="center"></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojaAlnemer&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojaAlnemer&layout=donut-vertical&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
