@@ -8,8 +8,8 @@
 
 <div align="center"></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DojaAlnemer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
  
  </br>
 
