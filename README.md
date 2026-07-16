@@ -8,7 +8,9 @@
 
 <div align="center"></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojaAlnemer&hide_progress=true&theme=algolia)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 
  
