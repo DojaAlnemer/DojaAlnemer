@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=arch,nextjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,nextjs,nodejs,react)](https://skillicons.dev)
 
   </div>
 </br></div>
