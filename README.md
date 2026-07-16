@@ -1,5 +1,5 @@
 <h1 align="center">I'm Doja @DojaAlnemer</h1>
-<h3 align="center">Computer Information Systems Student</h3>
+<h3 align="center">Fresh Computer Information Systems Graduate</h3>
 <div align="center">
 <img  src="https://i.pinimg.com/originals/86/07/7a/86077a5378ad64b22261ee0913924bfe.gif" alt="Divider" Height="150px"> 
 </div>
