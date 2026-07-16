@@ -1,5 +1,5 @@
-<h1 align="center">I'm Doja @DojaAlnemer</h1>
-<h3 align="center">Fresh Computer Information Systems Graduate</h3>
+<h1 align="center">─═✩✧═─ 𝕀'𝕞 𝔻𝕠𝕛𝕒 @𝔻𝕠𝕛𝕒𝔸𝕝𝕟𝕖𝕞𝕖𝕣 ─═✧✩═─</h1>
+<h3 align="center">𝗙𝗿𝗲𝘀𝗵 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲</h3>
 <div align="center">
 <img  src="https://i.pinimg.com/originals/86/07/7a/86077a5378ad64b22261ee0913924bfe.gif" alt="Divider" Height="150px"> 
 </div>
@@ -27,12 +27,12 @@
 
 <br>
 
-**My Tech Stack**:
+**𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸**:
   
   [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,aws,bash,cpp,css,figma,github,html,java,js,linux,notion,mysql,php,powershell,py,pycharm,sklearn,supabase,ubuntu,vscode)](https://skillicons.dev)
   
 
-**Currently Learning**:
+**𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴**:
 
 <div align="center">
 
