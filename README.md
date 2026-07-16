@@ -29,14 +29,14 @@
 
 **My Tech Stack**:
   
-  [![My Skills](https://skillicons.dev/icons?i=arduino,aws,bash,cpp,css,github,html,java,js,linux,mysql,php,powershell,py,pycharm,ubuntu,vscode,anaconda, )](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,aws,bash,cpp,css,github,html,java,js,linux,notion,mysql,php,powershell,py,pycharm,sklearn,supabase,ubuntu,vscode)](https://skillicons.dev)
   
 
 **Currently Learning**:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=godot,figma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,figma,nextjs,react)](https://skillicons.dev)
 
   </div>
 </br></div>
