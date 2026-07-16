@@ -1,7 +1,7 @@
 <h1 align="center">I'm Doja @DojaAlnemer</h1>
 <h3 align="center">Computer Information Systems Student</h3>
 <div align="center">
-<img  src="https://media.tenor.com/iTm8wqNUZMsAAAAi/divider.gif" alt="Divider"> 
+<img  src="[https://media.tenor.com/iTm8wqNUZMsAAAAi/divider.gif](https://i.pinimg.com/originals/86/07/7a/86077a5378ad64b22261ee0913924bfe.gif)" alt="Divider"> 
 </div>
 
 
@@ -41,7 +41,7 @@
   </div>
 </br></div>
 <div align="center">
-<img  src="https://media.tenor.com/iTm8wqNUZMsAAAAi/divider.gif" alt="Divider"> 
+<img  src="[https://media.tenor.com/iTm8wqNUZMsAAAAi/divider.gif](https://i.pinimg.com/originals/86/07/7a/86077a5378ad64b22261ee0913924bfe.gif)" alt="Divider"> 
 </div>
   
 
